@@ -1,6 +1,6 @@
 module github.com/gogearbox/netadaptor
 
-go 1.14
+go 1.16
 
 require (
 	github.com/gogearbox/gearbox v1.2.1
